@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Full-stack web development on Microverse.*
 
-- 🔭 I’m currently working on [Cozy Homes]([https://github.com/Gdiazdiaz/Earthbnb-frontend](https://github.com/cilfonegabriel/cozy-homes-front-end))
+- 🔭 I’m currently working on [Cozy Homes](https://github.com/cilfonegabriel/cozy-homes-front-end)
 
 - 📫 How to reach me *cilfonegabriel@gmail.com*
 
