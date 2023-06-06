@@ -25,5 +25,10 @@
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
 
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cilfonegabriel&show_icons=true&locale=en&layout=compact" alt="cilfonegabriel" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cilfonegabriel&show_icons=true&locale=en" alt="cilfonegabriel" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cilfonegabriel&" alt="cilfonegabriel" /></p>
+
+
+
