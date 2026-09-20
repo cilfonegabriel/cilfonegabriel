@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Cilfone</h1>
-<h3 align="center">and I’m a Full Stack Development student in Microverse</h3>
+<h3 align="center">and I’m a Full Stack Development</h3>
 
 <img src="https://i.pinimg.com/originals/de/30/21/de3021c5618a58faa9f39ba3df133f24.gif" style="width:100vw;">
 
